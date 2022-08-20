@@ -78,6 +78,38 @@ li {
   margin-top: 3em;
 }
 
+.redes-sociais > #face:hover {
+  background-color: #0d8af0de;
+  cursor: pointer;
+  padding: 12px;
+  border-radius: 5px;
+  transition: 0.8s;
+}
+
+.redes-sociais > #wpp:hover {
+  background-color: #11cfa6;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  transition: 0.8s;
+}
+
+.redes-sociais > #insta:hover {
+  background-image: linear-gradient(to right, #d800e8, #ff0072, #ffc439);
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  transition: 0.8s;
+}
+
+.redes-sociais > #link:hover {
+  background-color: #6ea5ff;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 5px;
+  transition: 0.8s;
+}
+
 .portifolio img {
   border-radius: 10px;
 }
