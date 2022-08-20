@@ -65,6 +65,7 @@ li {
 }
 
 .title {
+  color: rgba(0, 0, 0, 0.87);
   font-size: 36px;
 }
 
@@ -97,4 +98,10 @@ footer > p {
   color: white;
   text-shadow: 2px 2px 16px black;
   margin: 50px;
+  border-radius: 5px;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(148, 105, 40, 0.788),
+    transparent
+  );
 }
